@@ -1,2 +1,3 @@
 ﻿<Application x:Class="YourGrade.App"
-             xmlns="http://schemas.microsoft.
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.mic
