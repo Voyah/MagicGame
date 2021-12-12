@@ -1,0 +1,18 @@
+
+﻿<Window x:Class="YourGrade.InformationWindow"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:YourGrade"
+      mc:Ignorable="d" 
+      Title="정보" Height="170" Width="400" ResizeMode="NoResize">
+    <Grid>
+        <Image x:Name="image" HorizontalAlignment="Left"   Width="100" Source="bhj.png" Margin="20,15,0,26"/>
+
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="140,38,0,0" TextWrapping="Wrap" Text="Developer : 배형진" VerticalAlignment="Top"  FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="140,10,0,0" TextWrapping="Wrap" Text="Category : 학점 계산기" VerticalAlignment="Top" FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="140,66,0,0" TextWrapping="Wrap" Text="Required : 이수구분별 성적표 PDF" VerticalAlignment="Top"  FontSize="14"/>
+        <TextBlock HorizontalAlignment="Left" Height="23" Margin="140,94,0,0" TextWrapping="Wrap" Text="Thanks To : Yourssu / 호우회" VerticalAlignment="Top"  FontSize="14"/>
+    </Grid>
+</Window>
