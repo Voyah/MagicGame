@@ -9,3 +9,57 @@
         Title="YourGrade" Height="283" Width="520" ResizeMode="NoResize">
     <StackPanel Background="#FFE6E6E6">
         <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Menu Grid.Column="0">
+                <MenuItem x:Name="openMenuItem" Header="열기" FontSize="14" Click="OpenMenuItem_Click"/>
+                <MenuItem x:Name="infoMenuItem" Header="정보" FontSize="14" Click="InfoMenuItem_Click"/>
+            </Menu>
+            <TextBlock  x:Name="fileNameTextBlock" Grid.Column="1"  FontSize="14" TextAlignment="Right" Background="{DynamicResource {x:Static SystemColors.MenuBrushKey}}"/>
+        </Grid>
+        <Grid Margin="20">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="80"/>
+                <ColumnDefinition Width="120"/>
+                <ColumnDefinition Width="80"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBlock x:Name="majorGradeTextBlock" Grid.Row="0" Grid.Column="0" Text="전공학점" FontSize="14"  VerticalAlignment="Center"/>
+            <TextBox x:Name="majorGradeTextBox" Grid.Row="0" Grid.Column="1" FontSize="14"  Height="24" Width="100" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="majorScoreTextBlock" Grid.Row="0" Grid.Column="2" Text="전공점수" FontSize="14"  VerticalAlignment="Center"/>
+            <TextBox x:Name="majorScoreTextBox" Grid.Row="0" Grid.Column="3" FontSize="14"  Height="24" Width="100" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="majorPointTextBlock" Grid.Row="0" Grid.Column="4" Text="0" FontSize="14"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+            <TextBlock x:Name="totalGradeTextBlock" Grid.Row="1" Grid.Column="0" Text="전체학점" FontSize="14"  VerticalAlignment="Center"/>
+            <TextBox x:Name="totalGradeTextBox" Grid.Row="1" Grid.Column="1" FontSize="14"  Height="24" Width="100" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="totalScoreTextBlock" Grid.Row="1" Grid.Column="2" Text="전체점수" FontSize="14"  VerticalAlignment="Center"/>
+            <TextBox x:Name="totalScoreTextBox" Grid.Row="1" Grid.Column="3" FontSize="14"  Height="24" Width="100" HorizontalAlignment="Left"/>
+            <TextBlock x:Name="totalPointTextBlock" Grid.Row="1" Grid.Column="4" Text="0" FontSize="14"  VerticalAlignment="Center" HorizontalAlignment="Center"/>
+
+        </Grid>
+
+        <Grid Background="White">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="100"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <Image Grid.Column="0" Source="soongsil.jpg"/>
+            <Image Grid.Column="1" Source="apache.png"/>
+            <Image Grid.Column="2" Source="yourssu_banner.png"/>
+        </Grid>
+    </StackPanel>
+
+</Window>
