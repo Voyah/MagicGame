@@ -91,3 +91,39 @@ namespace YourGrade
                     //  Exception :: 재수강 했는데 Ex3인 경우
                 }
                 else if (words.Length == dateIdx + 3)
+                {
+                    // P/F과목 FAIL의 경우
+                    sub.Grade = "IGNORE";
+                }
+                else
+                {
+                    sub.Grade = words[dateIdx + 2];
+                    sub.Score = words[dateIdx + 3];
+                }
+            }
+            else if (Inspection.IsPOfPFSubject(words[dateIdx + 2]))
+            {
+                sub.Grade = words[dateIdx + 2][0].ToString();
+            }
+            else if (Inspection.IsFOfPFSubject(words[dateIdx + 2]))
+            {
+                // Exception :: F학점임에도 불구하고 과목정보가 Ex3 아닌 경우 포함
+            }
+            else if (Inspection.IsSeparatedGrade(words[dateIdx + 2]))
+            {
+                string grade = words[dateIdx + 2];
+                grade += words[dateIdx + 3];
+                sub.Grade = grade;
+                sub.Score = words[dateIdx + 4];
+            }
+            else if (dateIdx + 3 != words.Length)
+            {
+                sub.Grade = words[dateIdx + 2];
+                sub.Score = words[dateIdx + 3];
+            }
+
+            return sub;
+        }
+
+    }
+}
