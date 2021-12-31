@@ -61,3 +61,12 @@ namespace YourGrade.Properties
         {
             get
             {
+                return resourceCulture;
+            }
+            set
+            {
+                resourceCulture = value;
+            }
+        }
+    }
+}
