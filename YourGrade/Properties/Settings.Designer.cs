@@ -12,4 +12,5 @@ namespace YourGrade.Properties
 {
 
 
-    [global::Syste
+    [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+    [global::Syst
