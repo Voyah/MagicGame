@@ -24,3 +24,7 @@ namespace YourGrade.Properties
             get
             {
                 return defaultInstance;
+            }
+        }
+    }
+}
