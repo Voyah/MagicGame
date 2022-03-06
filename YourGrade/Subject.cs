@@ -8,4 +8,5 @@ namespace YourGrade
 {
     public class Subject
     {
-        public static read
+        public static readonly string[] REFINEMENT_CLASS = { "교양필수", "교양선택", "일반선택" };
+  
