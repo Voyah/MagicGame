@@ -18,4 +18,7 @@ namespace YourGrade
         private string category;
         private string date;
         private string univPoint;
-        priva
+        private string grade;
+        private string score;
+
+        public string Cl
