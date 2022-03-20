@@ -13,4 +13,6 @@ namespace YourGrade
         public static readonly string IGNORE = "1001";
 
         private string classification;
-        private strin
+        private string code;
+        private string name;
+        private string categor
