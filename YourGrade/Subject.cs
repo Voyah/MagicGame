@@ -15,4 +15,7 @@ namespace YourGrade
         private string classification;
         private string code;
         private string name;
-        private string categor
+        private string category;
+        private string date;
+        private string univPoint;
+        priva
