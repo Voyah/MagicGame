@@ -21,4 +21,5 @@ namespace YourGrade
         private string grade;
         private string score;
 
-        public string Cl
+        public string Classification { get => classification; set => classification = value; }
+        public strin
