@@ -24,4 +24,5 @@ namespace YourGrade
         public string Classification { get => classification; set => classification = value; }
         public string Code { get => code; set => code = value; }
         public string Name { get => name; set => name = value; }
-        public string Category { get => categ
+        public string Category { get => category; set => category = value; }
+        public string Date { get => date; s
