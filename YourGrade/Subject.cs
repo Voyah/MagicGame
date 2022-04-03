@@ -26,4 +26,5 @@ namespace YourGrade
         public string Name { get => name; set => name = value; }
         public string Category { get => category; set => category = value; }
         public string Date { get => date; set => date = value; }
-        public string UnivPoint { get => univPoint; set => uni
+        public string UnivPoint { get => univPoint; set => univPoint = value; }
+        public string Grade { get => grade; set => grade = G
