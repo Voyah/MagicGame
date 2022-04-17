@@ -28,4 +28,6 @@ namespace YourGrade
         public string Date { get => date; set => date = value; }
         public string UnivPoint { get => univPoint; set => univPoint = value; }
         public string Grade { get => grade; set => grade = GetGradeFromString(value); }
-        public string Score { get => score; set => score = r
+        public string Score { get => score; set => score = removeCR(value); }
+
+        private string GetGradeFromString(string value)
