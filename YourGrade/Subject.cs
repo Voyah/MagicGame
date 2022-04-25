@@ -31,3 +31,7 @@ namespace YourGrade
         public string Score { get => score; set => score = removeCR(value); }
 
         private string GetGradeFromString(string value)
+        {
+            float result = 0;
+            switch (value[0])
+   
