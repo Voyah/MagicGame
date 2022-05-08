@@ -34,4 +34,8 @@ namespace YourGrade
         {
             float result = 0;
             switch (value[0])
-   
+            {
+                case 'A':
+                    result += 4;
+                    break;
+     
