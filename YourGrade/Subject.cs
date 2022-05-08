@@ -38,4 +38,6 @@ namespace YourGrade
                 case 'A':
                     result += 4;
                     break;
-     
+                case 'B':
+                    result += 3;
+               
