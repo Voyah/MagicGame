@@ -43,4 +43,7 @@ namespace YourGrade
                     break;
                 case 'C':
                     result += 2;
-      
+                    break;
+                case 'D':
+                    result += 1;
+               
