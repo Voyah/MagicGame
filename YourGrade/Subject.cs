@@ -46,4 +46,7 @@ namespace YourGrade
                     break;
                 case 'D':
                     result += 1;
-               
+                    break;
+                case 'F':
+                    return "0";
+        
