@@ -49,4 +49,8 @@ namespace YourGrade
                     break;
                 case 'F':
                     return "0";
-        
+                default:
+                    return IGNORE;
+            }
+
+    
