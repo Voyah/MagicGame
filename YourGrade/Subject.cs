@@ -53,4 +53,6 @@ namespace YourGrade
                     return IGNORE;
             }
 
-    
+            switch (value[1])
+            {
+                case '+'
