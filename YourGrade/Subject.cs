@@ -58,3 +58,5 @@ namespace YourGrade
                 case '+':
                     result += (float)0.5;
                     break;
+                case '0':
+                    result += (float)0.3
