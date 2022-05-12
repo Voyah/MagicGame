@@ -55,4 +55,6 @@ namespace YourGrade
 
             switch (value[1])
             {
-                case '+'
+                case '+':
+                    result += (float)0.5;
+                    break;
