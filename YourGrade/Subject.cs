@@ -59,4 +59,7 @@ namespace YourGrade
                     result += (float)0.5;
                     break;
                 case '0':
-                    result += (float)0.3
+                    result += (float)0.3;
+                    break;
+                case '-':
+                    result += 0;
