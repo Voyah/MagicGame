@@ -63,3 +63,7 @@ namespace YourGrade
                     break;
                 case '-':
                     result += 0;
+                    break;
+            }
+
+            return result.ToSt
