@@ -66,4 +66,9 @@ namespace YourGrade
                     break;
             }
 
-            return result.ToSt
+            return result.ToString();
+        }
+
+        private string removeCR(string word)
+        {
+   
