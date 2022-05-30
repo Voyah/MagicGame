@@ -74,4 +74,6 @@ namespace YourGrade
             if (word.IndexOf('\\') > 0)
                 return word.Substring(0, word.IndexOf('\\') - 1);
             return word;
-       
+        }
+    }
+}
