@@ -72,4 +72,6 @@ namespace YourGrade
         private string removeCR(string word)
         {
             if (word.IndexOf('\\') > 0)
-                return word.Subs
+                return word.Substring(0, word.IndexOf('\\') - 1);
+            return word;
+       
