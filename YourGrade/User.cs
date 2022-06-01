@@ -71,3 +71,13 @@ namespace YourGrade
             {
                 majorGrade /= majorDivider;
                 majorScore /= majorDivider;
+            }
+
+            if (totalDivider != 0)
+            {
+                totalGrade /= totalDivider;
+                totalScore /= totalDivider;
+            }
+        }
+    }
+}
