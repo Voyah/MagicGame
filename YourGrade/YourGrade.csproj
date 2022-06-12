@@ -8,4 +8,6 @@
     <OutputType>WinExe</OutputType>
     <RootNamespace>YourGrade</RootNamespace>
     <AssemblyName>YourGrade</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFramework
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids
