@@ -14,4 +14,5 @@
     <WarningLevel>4</WarningLevel>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
-  </PropertyGr
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' =
