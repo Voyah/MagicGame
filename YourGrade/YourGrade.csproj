@@ -21,4 +21,5 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>bin\Debug\</OutputPath>
-    <
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prom
