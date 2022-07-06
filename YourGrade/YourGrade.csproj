@@ -38,4 +38,7 @@
     <ApplicationIcon>yourssu.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="commons-l
+    <Reference Include="commons-logging">
+      <HintPath>lib\copy\commons-logging.dll</HintPath>
+    </Reference>
+    
