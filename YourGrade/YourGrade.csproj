@@ -44,4 +44,6 @@
     <Reference Include="fontbox-1.8.9">
       <HintPath>lib\copy\fontbox-1.8.9.dll</HintPath>
     </Reference>
-    <Reference Include="IKVM.
+    <Reference Include="IKVM.OpenJDK.Core">
+      <HintPath>lib\references\IKVM.OpenJDK.Core.dll</HintPath>
+ 
