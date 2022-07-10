@@ -41,4 +41,5 @@
     <Reference Include="commons-logging">
       <HintPath>lib\copy\commons-logging.dll</HintPath>
     </Reference>
-    
+    <Reference Include="fontbox-1.8.9">
+      <HintPath>lib\copy\f
