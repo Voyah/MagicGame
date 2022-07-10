@@ -42,4 +42,6 @@
       <HintPath>lib\copy\commons-logging.dll</HintPath>
     </Reference>
     <Reference Include="fontbox-1.8.9">
-      <HintPath>lib\copy\f
+      <HintPath>lib\copy\fontbox-1.8.9.dll</HintPath>
+    </Reference>
+    <Reference Include="IKVM.
