@@ -48,4 +48,6 @@
       <HintPath>lib\references\IKVM.OpenJDK.Core.dll</HintPath>
     </Reference>
     <Reference Include="IKVM.OpenJDK.SwingAWT">
-      <HintPath>lib\refere
+      <HintPath>lib\references\IKVM.OpenJDK.SwingAWT.dll</HintPath>
+    </Reference>
+    <Referenc
