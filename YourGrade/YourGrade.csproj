@@ -57,4 +57,6 @@
       <HintPath>lib\copy\IKVM.OpenJDK.Util.dll</HintPath>
     </Reference>
     <Reference Include="IKVM.Runtime">
-      <HintPath>lib\copy\IKVM.Runtime.dll</HintPa
+      <HintPath>lib\copy\IKVM.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="pdfbox-1.8.9
