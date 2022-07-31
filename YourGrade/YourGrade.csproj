@@ -59,4 +59,7 @@
     <Reference Include="IKVM.Runtime">
       <HintPath>lib\copy\IKVM.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="pdfbox-1.8.9
+    <Reference Include="pdfbox-1.8.9">
+      <HintPath>lib\references\pdfbox-1.8.9.dll</HintPath>
+    </Reference>
+   
