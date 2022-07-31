@@ -56,4 +56,5 @@
     <Reference Include="IKVM.OpenJDK.Util">
       <HintPath>lib\copy\IKVM.OpenJDK.Util.dll</HintPath>
     </Reference>
-    <Referenc
+    <Reference Include="IKVM.Runtime">
+      <HintPath>lib\copy\IKVM.Runtime.dll</HintPa
