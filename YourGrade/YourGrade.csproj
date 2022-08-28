@@ -77,4 +77,6 @@
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
   </ItemGroup>
-  <It
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+    
