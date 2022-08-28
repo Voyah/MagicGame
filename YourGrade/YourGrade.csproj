@@ -73,4 +73,5 @@
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
     </Reference>
-    <Re
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" /
