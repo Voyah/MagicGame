@@ -89,4 +89,6 @@
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
-    </Pag
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</Dep
