@@ -96,4 +96,7 @@
     </Compile>
     <Compile Include="InformationWindow.xaml.cs">
       <DependentUpon>InformationWindow.xaml</DependentUpon>
-    </
+    </Compile>
+    <Compile Include="Inspection.cs" />
+    <Compile Include="Subject.cs" />
+   
