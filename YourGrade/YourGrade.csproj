@@ -106,4 +106,6 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="PD
+    <Compile Include="PDFReader.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubT
