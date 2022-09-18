@@ -114,4 +114,6 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
-    </Compi
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <Au
