@@ -138,3 +138,8 @@
   <ItemGroup>
     <Resource Include="soongsil.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="yourssu.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resou
