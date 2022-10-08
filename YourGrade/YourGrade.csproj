@@ -132,4 +132,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGro
+  <ItemGroup>
+    <Resource Include="yourssu_banner.png" />
+  </ItemGroup>
+  
