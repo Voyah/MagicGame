@@ -135,4 +135,6 @@
   <ItemGroup>
     <Resource Include="yourssu_banner.png" />
   </ItemGroup>
-  
+  <ItemGroup>
+    <Resource Include="soongsil.jpg" />
+  </ItemGroup>
