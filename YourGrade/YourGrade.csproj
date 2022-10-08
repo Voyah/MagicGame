@@ -142,4 +142,7 @@
     <Resource Include="yourssu.ico" />
   </ItemGroup>
   <ItemGroup>
-    <Resou
+    <Resource Include="apache.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="b
