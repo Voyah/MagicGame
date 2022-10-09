@@ -145,4 +145,6 @@
     <Resource Include="apache.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="b
+    <Resource Include="bhj.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Micr
