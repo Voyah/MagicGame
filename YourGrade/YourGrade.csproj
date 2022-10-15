@@ -147,4 +147,5 @@
   <ItemGroup>
     <Resource Include="bhj.png" />
   </ItemGroup>
-  <Import Project="$(MSBuildToolsPath)\Micr
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
