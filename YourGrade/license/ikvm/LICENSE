@@ -357,3 +357,61 @@ is a sample; alter the names:
     'Gnomovision' (which makes passes at compilers) written by James Hacker.
 
     signature of Ty Coon, 1 April 1989
+
+    Ty Coon, President of Vice
+
+This General Public License does not permit incorporating your program into
+proprietary programs.  If your program is a subroutine library, you may
+consider it more useful to permit linking proprietary applications with the
+library.  If this is what you want to do, use the GNU Library General Public
+License instead of this License.
+
+
+"CLASSPATH" EXCEPTION TO THE GPL
+
+Certain source files distributed by Oracle America and/or its affiliates are
+subject to the following clarification and special exception to the GPL, but
+only where Oracle has expressly included in the particular source file's header
+the words "Oracle designates this particular file as subject to the "Classpath"
+exception as provided by Oracle in the LICENSE file that accompanied this code."
+
+    Linking this library statically or dynamically with other modules is making
+    a combined work based on this library.  Thus, the terms and conditions of
+    the GNU General Public License cover the whole combination.
+
+    As a special exception, the copyright holders of this library give you
+    permission to link this library with independent modules to produce an
+    executable, regardless of the license terms of these independent modules,
+    and to copy and distribute the resulting executable under terms of your
+    choice, provided that you also meet, for each linked independent module,
+    the terms and conditions of the license of that module.  An independent
+    module is a module which is not derived from or based on this library.  If
+    you modify this library, you may extend this exception to your version of
+    the library, but you are not obligated to do so.  If you do not wish to do
+    so, delete this exception statement from your version.
+
+-----------------------------------------------------------------------------
+
+ -------------------------------------------------------------------------
+        $Id: LICENSE,v 1.7 2011/10/31 13:30:20 jfrijters Exp $
+ -------------------------------------------------------------------------
+        Copyright (c) 1999 Visual Numerics Inc. All Rights Reserved.
+
+ Permission to use, copy, modify, and distribute this software is freely
+ granted by Visual Numerics, Inc., provided that the copyright notice
+ above and the following warranty disclaimer are preserved in human
+ readable form.
+
+ Because this software is licenses free of charge, it is provided
+ "AS IS", with NO WARRANTY.  TO THE EXTENT PERMITTED BY LAW, VNI
+ DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED
+ TO ITS PERFORMANCE, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+ VNI WILL NOT BE LIABLE FOR ANY DAMAGES WHATSOEVER ARISING OUT OF THE USE
+ OF OR INABILITY TO USE THIS SOFTWARE, INCLUDING BUT NOT LIMITED TO DIRECT,
+ INDIRECT, SPECIAL, CONSEQUENTIAL, PUNITIVE, AND EXEMPLARY DAMAGES, EVEN
+ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+
+ This Java code is based on C code in the package fdlibm,
+ which can be obtained from www.netlib.org.
+ The original fdlibm C code contains the following notice.
