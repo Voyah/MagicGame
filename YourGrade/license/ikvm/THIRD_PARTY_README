@@ -1895,3 +1895,97 @@ California at Berkeley, overseen by Profs. Nelson Morgan and John Wawrzynek.
 THIS SOFTWARE IS DISTRIBUTED AS IS, FOR FREE. Although reasonable effort 
 has been made to avoid it, THIS SOFTWARE MAY CONTAIN FAULTS THAT WILL AT 
 TIMES RESULT IN INCORRECT BEHAVIOR. USE OF THIS SOFTWARE IS RESTRICTED TO 
+PERSONS AND ORGANIZATIONS WHO CAN AND WILL TAKE FULL RESPONSIBILITY FOR ALL 
+LOSSES, COSTS, OR OTHER PROBLEMS THEY INCUR DUE TO THE SOFTWARE, AND WHO 
+FURTHERMORE EFFECTIVELY INDEMNIFY JOHN HAUSER AND THE INTERNATIONAL COMPUTER 
+SCIENCE INSTITUTE (possibly via similar legal warning) AGAINST ALL LOSSES, 
+COSTS, OR OTHER PROBLEMS INCURRED BY THEIR CUSTOMERS AND CLIENTS DUE TO THE 
+SOFTWARE. 
+
+Derivative works are acceptable, even for commercial purposes, provided 
+that the minimal documentation requirements stated in the source code are 
+satisfied. 
+
+--- end of LICENSE ---
+
+-------------------------------------------------------------------------------
+
+%% Portions licensed from Taligent, Inc.
+
+-------------------------------------------------------------------------------
+
+%% This notice is provided with respect to Thai Dictionary, which is 
+included with JRE 7, JDK 7, and OpenJDK 7.
+
+--- begin of LICENSE ---
+
+Copyright (C) 1982 The Royal Institute, Thai Royal Government.
+
+Copyright (C) 1998 National Electronics and Computer Technology Center,
+National Science and Technology Development Agency,
+Ministry of Science Technology and Environment,
+Thai Royal Government.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+--- end of LICENSE ---
+
+-------------------------------------------------------------------------------
+
+%% This notice is provided with respect to Unicode 6.0.0, CLDR v1.4.1, & CLDR
+v1.9, which is included with JRE 7, JDK 7, and OpenJDK 7.
+
+--- begin of LICENSE ---
+
+Unicode Terms of Use
+
+For the general privacy policy governing access to this site, see the Unicode
+Privacy Policy. For trademark usage, see the Unicode® Consortium Name and
+Trademark Usage Policy.
+
+A. Unicode Copyright.
+   1. Copyright © 1991-2011 Unicode, Inc. All rights reserved.
+
+   2. Certain documents and files on this website contain a legend indicating
+      that "Modification is permitted." Any person is hereby authorized,
+      without fee, to modify such documents and files to create derivative
+      works conforming to the Unicode® Standard, subject to Terms and
+      Conditions herein.
+
+    3. Any person is hereby authorized, without fee, to view, use, reproduce,
+       and distribute all documents and files solely for informational
+       purposes in the creation of products supporting the Unicode Standard,
+       subject to the Terms and Conditions herein.
+
+    4. Further specifications of rights and restrictions pertaining to the use
+       of the particular set of data files known as the "Unicode Character
+       Database" can be found in Exhibit 1.
+
+    5. Each version of the Unicode Standard has further specifications of
+       rights and restrictions of use. For the book editions (Unicode 5.0 and
+       earlier), these are found on the back of the title page. The online
+       code charts carry specific restrictions. All other files, including
+       online documentation of the core specification for Unicode 6.0 and
+       later, are covered under these general Terms of Use.
+
+    6. No license is granted to "mirror" the Unicode website where a fee is
+       charged for access to the "mirror" site.
+
+    7. Modification is not permitted with respect to this document. All copies
+       of this document must be verbatim.
