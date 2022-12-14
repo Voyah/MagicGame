@@ -2638,3 +2638,81 @@ copyright and design patent license to use this code in individual and
 commercial software.
 
 Any use of this source code must include, in the user documentation and
+internal comments to the code, notices to the end user as follows:
+
+Copyright (c) 1996 NVIDIA, Corp. NVIDIA design patents pending in the U.S. and
+foreign countries.
+
+NVIDIA, CORP. MAKES NO REPRESENTATION ABOUT THE SUITABILITY OF THIS SOURCE
+CODE FOR ANY PURPOSE. IT IS PROVIDED "AS IS" WITHOUT EXPRESS OR IMPLIED
+WARRANTY OF ANY KIND. NVIDIA, CORP. DISCLAIMS ALL WARRANTIES WITH REGARD TO
+THIS SOURCE CODE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS FOR A PARTICULAR PURPOSE. IN NO EVENT SHALL NVIDIA, CORP. BE LIABLE
+FOR ANY SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, OR ANY
+DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN
+CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOURCE CODE.  3.4. GLX Public
+License
+
+GLX PUBLIC LICENSE (Version 1.0 (2/11/99)) ("License")
+
+Subject to any third party claims, Silicon Graphics, Inc. ("SGI") hereby
+grants permission to Recipient (defined below), under Recipient's copyrights
+in the Original Software (defined below), to use, copy, modify, merge,
+publish, distribute, sublicense and/or sell copies of Subject Software
+(defined below), and to permit persons to whom the Subject Software is
+furnished in accordance with this License to do the same, subject to all of
+the following terms and conditions, which Recipient accepts by engaging in any
+such use, copying, modifying, merging, publishing, distributing, sublicensing
+or selling:
+
+1. Definitions.
+
+    (a) "Original Software" means source code of computer software code which
+    is described in Exhibit A as Original Software.
+
+    (b) "Modifications" means any addition to or deletion from the substance
+    or structure of either the Original Software or any previous
+    Modifications. When Subject Software is released as a series of files, a
+    Modification means (i) any addition to or deletion from the contents of a
+    file containing Original Software or previous Modifications and (ii) any
+    new file that contains any part of the Original Code or previous
+    Modifications.
+
+    (c) "Subject Software" means the Original Software or Modifications or the
+    combination of the Original Software and Modifications, or portions of any
+    of the foregoing.
+
+    (d) "Recipient" means an individual or a legal entity exercising rights
+    under, and complying with all of the terms of, this License. For legal
+    entities, "Recipient" includes any entity which controls, is controlled
+    by, or is under common control with Recipient. For purposes of this
+    definition, "control" of an entity means (a) the power, direct or
+    indirect, to direct or manage such entity, or (b) ownership of fifty
+    percent (50%) or more of the outstanding shares or beneficial ownership of
+    such entity.
+
+2. Redistribution of Source Code Subject to These Terms. Redistributions of
+Subject Software in source code form must retain the notice set forth in
+Exhibit A, below, in every file. A copy of this License must be included in
+any documentation for such Subject Software where the recipients' rights
+relating to Subject Software are described. Recipient may distribute the
+source code version of Subject Software under a license of Recipient's choice,
+which may contain terms different from this License, provided that (i)
+Recipient is in compliance with the terms of this License, and (ii) the
+license terms include this Section 2 and Sections 3, 4, 7, 8, 10, 12 and 13 of
+this License, which terms may not be modified or superseded by any other terms
+of such license. If Recipient distributes the source code version under a
+different license Recipient must make it absolutely clear that any terms which
+differ from this License are offered by Recipient alone, not by SGI. Recipient
+hereby agrees to indemnify SGI for any liability incurred by SGI as a result
+of any such terms Recipient offers.
+
+3. Redistribution in Executable Form. The notice set forth in Exhibit A must
+be conspicuously included in any notice in an executable version of Subject
+Software, related documentation or collateral in which Recipient describes the
+user's rights relating to the Subject Software. Recipient may distribute the
+executable version of Subject Software under a license of Recipient's choice,
+which may contain terms different from this License, provided that (i)
+Recipient is in compliance with the terms of this License, and (ii) the
+license terms include this Section 3 and Sections 4, 7, 8, 10, 12 and 13 of
