@@ -2869,3 +2869,77 @@ publication, distributing, sublicensing or selling:
     b. "Modifications" means any addition to or deletion from the substance or
     structure of either the Original Software or any previous Modifications.
     When Subject Software is released as a series of files, a Modification
+    means (i) any addition to or deletion from the contents of a file
+    containing Original Software or previous Modifications and (ii) any new
+    file that contains any part of the Original Code or previous
+    Modifications.
+
+    c. "Subject Software" means the Original Software or Modifications or the
+    combination of the Original Software and Modifications, or portions of any
+    of the foregoing.
+
+    d. "Recipient" means an individual or a legal entity exercising rights
+    under the terms of this License. For legal entities, "Recipient" includes
+    any entity that controls, is controlled by, or is under common control
+    with Recipient. For purposes of this definition, "control" of an entity
+    means (i) the power, direct or indirect, to direct or manage such entity,
+    or (ii) ownership of fifty percent (50%) or more of the outstanding shares
+    or beneficial ownership of such entity.
+
+    e. "Required Notice" means the notice set forth in Exhibit A to this
+    License.
+
+    f. "Accompanying Technology" means any software or other technology that
+    is not a Modification and that is distributed or made publicly available
+    by Recipient with the Subject Software. Separate software files that do
+    not contain any Original Software or any previous Modification shall not
+    be deemed a Modification, even if such software files are aggregated as
+    part of a product, or in any medium of storage, with any file that does
+    contain Original Software or any previous Modification.
+
+2. License Terms. All distribution of the Subject Software must be made
+subject to the terms of this License. A copy of this License and the Required
+Notice must be included in any documentation for Subject Software where
+Recipient's rights relating to Subject Software and/or any Accompanying
+Technology are described. Distributions of Subject Software in source code
+form must also include the Required Notice in every file distributed. In
+addition, a ReadMe file entitled "Important Legal Notice" must be distributed
+with each distribution of one or more files that incorporate Subject Software.
+That file must be included with distributions made in both source code and
+executable form. A copy of the License and the Required Notice must be
+included in that file. Recipient may distribute Accompanying Technology under
+a license of Recipient's choice, which may contain terms different from this
+License, provided that (i) Recipient is in compliance with the terms of this
+License, (ii) such other license terms do not modify or supersede the terms of
+this License as applicable to the Subject Software, (iii) Recipient hereby
+indemnifies SGI for any liability incurred by SGI as a result of the
+distribution of Accompanying Technology or the use of other license terms.
+
+3. Termination. This License and the rights granted hereunder will terminate
+automatically if Recipient fails to comply with terms herein and fails to cure
+such breach within 30 days of the breach. Any sublicense to the Subject
+Software that is properly granted shall survive any termination of this
+License absent termination by the terms of such sublicense. Provisions which,
+by their nature, must remain in effect beyond the termination of this License
+shall survive.
+
+4. Trademark Rights. This License does not grant any rights to use any trade
+name, trademark or service mark whatsoever. No trade name, trademark or
+service mark of SGI may be used to endorse or promote products derived from or
+incorporating any Subject Software without prior written permission of SGI.
+
+5. No Other Rights. No rights or licenses not expressly granted hereunder
+shall arise by implication, estoppel or otherwise. Title to and ownership of
+the Original Software at all times remains with SGI. All rights in the
+Original Software not expressly granted under this License are reserved.
+
+6. Compliance with Laws; Non-Infringement. Recipient shall comply with all
+applicable laws and regulations in connection with use and distribution of the
+Subject Software, including but not limited to, all export and import control
+laws and regulations of the U.S. government and other countries. Recipient may
+not distribute Subject Software that (i) in any way infringes (directly or
+contributorily) the rights (including patent, copyright, trade secret,
+trademark or other intellectual property rights of any kind) of any other
+person or entity, or (ii) breaches any representation or warranty, express,
+implied or statutory, which under any applicable law it might be deemed to
+have been distributed.
