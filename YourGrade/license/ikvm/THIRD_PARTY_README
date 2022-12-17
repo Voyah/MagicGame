@@ -3098,3 +3098,84 @@ of these Fonts and associated documentation files (the "Font Software"), to
 deal in the Font Software, including without limitation the rights to use,
 copy, merge, publish, distribute, sublicense, and/or sell copies of the Font
 Software, and to permit persons to whom the Font Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright and trademark notices and this permission notice shall be
+included in all copies of one or more of the Font Software.
+
+The Font Software may not be modified, altered, or added to, and in particular
+the designs of glyphs or characters in the Fonts may not be modified nor may
+additional glyphs or characters be added to the Fonts. This License becomes
+null and void when the Fonts or Font Software have been modified.
+
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT,
+TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL BIGELOW & HOLMES INC. OR URW++
+GMBH. BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY
+GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN
+AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR
+INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT
+SOFTWARE.
+
+Except as contained in this notice, the names of Bigelow & Holmes Inc. and
+URW++ GmbH. shall not be used in advertising or otherwise to promote the sale,
+use or other dealings in this Font Software without prior written
+authorization from Bigelow & Holmes Inc. and URW++ GmbH.
+
+For further information, contact:
+
+info@urwpp.de or design@bigelowandholmes.com
+
+
+--- end of LICENSE ---
+
+-------------------------------------------------------------------------------
+
+%% This notice is provided with respect to zlib v1.2.3, which is included 
+with JRE 7, JDK 7, and OpenJDK 7
+
+--- begin of LICENSE ---
+
+  version 1.2.3, July 18th, 2005
+
+  Copyright (C) 1995-2005 Jean-loup Gailly and Mark Adler
+
+  This software is provided 'as-is', without any express or implied
+  warranty.  In no event will the authors be held liable for any damages
+  arising from the use of this software.
+
+  Permission is granted to anyone to use this software for any purpose,
+  including commercial applications, and to alter it and redistribute it
+  freely, subject to the following restrictions:
+
+  1. The origin of this software must not be misrepresented; you must not
+     claim that you wrote the original software. If you use this software
+     in a product, an acknowledgment in the product documentation would be
+     appreciated but is not required.
+  2. Altered source versions must be plainly marked as such, and must not be
+     misrepresented as being the original software.
+  3. This notice may not be removed or altered from any source distribution.
+
+  Jean-loup Gailly        Mark Adler
+  jloup@gzip.org          madler@alumni.caltech.edu
+
+--- end of LICENSE ---
+
+-------------------------------------------------------------------------------
+
+%% This notice is provided with respect to the following which is 
+included with JRE 7, JDK 7, and OpenJDK 7, except where noted:
+
+  Apache Derby 10.8.1.2        [included with JDK 7 only]
+  Apache Jakarta BCEL 5.2 
+  Apache Jakarta Regexp 1.4 
+  Apache Santuario XMLSec-Java 1.4.2
+  Apache Xalan-Java 2.7.1 
+  Apache Xerces2 Java 2.10.0 
+  Apache XML Resolver 1.1 
+
+
+--- begin of LICENSE ---
+
+                                 Apache License
