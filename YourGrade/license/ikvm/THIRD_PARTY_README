@@ -2802,3 +2802,70 @@ Recipient will defend, indemnify and hold harmless Silicon Graphics, Inc. from
 and against any loss, liability, damages, costs or expenses (including the
 payment of reasonable attorneys fees) arising out of Recipient's use,
 modification, reproduction and distribution of the Subject Software or out of
+any representation or warranty made by Recipient.
+
+12. U.S. Government End Users. The Subject Software is a "commercial item"
+consisting of "commercial computer software" as such terms are defined in
+title 48 of the Code of Federal Regulations and all U.S. Government End Users
+acquire only the rights set forth in this License and are subject to the terms
+of this License.
+
+13. Miscellaneous. This License represents the complete agreement concerning
+subject matter hereof. If any provision of this License is held to be
+unenforceable, such provision shall be reformed so as to achieve as nearly as
+possible the same economic effect as the original provision and the remainder
+of this License will remain in effect. This License shall be governed by and
+construed in accordance with the laws of the United States and the State of
+California as applied to agreements entered into and to be performed entirely
+within California between California residents. Any litigation relating to
+this License shall be subject to the exclusive jurisdiction of the Federal
+Courts of the Northern District of California (or, absent subject matter
+jurisdiction in such courts, the courts of the State of California), with
+venue lying exclusively in Santa Clara County, California, with the losing
+party responsible for costs, including without limitation, court costs and
+reasonable attorneys fees and expenses. The application of the United Nations
+Convention on Contracts for the International Sale of Goods is expressly
+excluded. Any law or regulation which provides that the language of a contract
+shall be construed against the drafter shall not apply to this License.
+
+Exhibit A
+
+The contents of this file are subject to Sections 2, 3, 4, 7, 8, 10, 12 and 13
+of the GLX Public License Version 1.0 (the "License"). You may not use this
+file except in compliance with those sections of the License. You may obtain a
+copy of the License at Silicon Graphics, Inc., attn: Legal Services, 2011 N.
+Shoreline Blvd., Mountain View, CA 94043 or at
+http://www.sgi.com/software/opensource/glx/license.html.
+
+Software distributed under the License is distributed on an "AS IS" basis. ALL
+WARRANTIES ARE DISCLAIMED, INCLUDING, WITHOUT LIMITATION, ANY IMPLIED
+WARRANTIES OF MERCHANTABILITY, OF FITNESS FOR A PARTICULAR PURPOSE OR OF NON-
+INFRINGEMENT. See the License for the specific language governing rights and
+limitations under the License.
+
+The Original Software is GLX version 1.2 source code, released February, 1999.
+The developer of the Original Software is Silicon Graphics, Inc. Those
+portions of the Subject Software created by Silicon Graphics, Inc. are
+Copyright (c) 1991-9 Silicon Graphics, Inc. All Rights Reserved.  3.5. CID
+Font Code Public License
+
+CID FONT CODE PUBLIC LICENSE (Version 1.0 (3/31/99))("License")
+
+Subject to any applicable third party claims, Silicon Graphics, Inc. ("SGI")
+hereby grants permission to Recipient (defined below), under SGI's copyrights
+in the Original Software (defined below), to use, copy, modify, merge,
+publish, distribute, sublicense and/or sell copies of Subject Software
+(defined below) in both source code and executable form, and to permit persons
+to whom the Subject Software is furnished in accordance with this License to
+do the same, subject to all of the following terms and conditions, which
+Recipient accepts by engaging in any such use, copying, modifying, merging,
+publication, distributing, sublicensing or selling:
+
+1. Definitions.
+
+    a. "Original Software" means source code of computer software code that is
+    described in Exhibit A as Original Software.
+
+    b. "Modifications" means any addition to or deletion from the substance or
+    structure of either the Original Software or any previous Modifications.
+    When Subject Software is released as a series of files, a Modification
